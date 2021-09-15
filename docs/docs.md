@@ -59,7 +59,7 @@ GET /business
 		"uid": "murimuri",
 		"name": "Oishik",
 		"email": "oishik@bantu.in",
-		"username": "muriman",
+		"username": "murimann",
 		"c_email": "oishik@bantu.in",
 		"brand": "muricompany",
 		"phone": "+915555522222",
