@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/logo.png
+heroImage: https://elliot.sirv.com/logo.png
 heroAlt: Logo image
 heroText: Localmerch
 tagline: Official documentation for Localmerch

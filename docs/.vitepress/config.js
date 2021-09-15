@@ -1,7 +1,6 @@
 module.exports = {
 	title: "Localmerch",
 	description: "Localmerch official documentation",
-	// base: "/docs/",
 	lang: 'en-US',
 	themeConfig: {
 		nav: [
