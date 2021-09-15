@@ -58,7 +58,7 @@ GET /business
 		"_id": "611ca9f15474dc18ecdc3f09",
 		"uid": "murimuri",
 		"name": "Oishik",
-		"email": "oishik@bantu.com",
+		"email": "oishik@bantu.in",
 		"username": "muriman",
 		"c_email": "oishik@bantu.in",
 		"brand": "muricompany",
@@ -669,3 +669,4 @@ GET /customers
 | :-------------- | :------- | :----------------------- |
 | `authorization` | `string` | _Required_. Your API key |
 | `id`            | `string` | _Required_. id           |
+
