@@ -1,4 +1,6 @@
 # OFFICIAL DOCUMENTATION FOR LOCALMERCH
 
-## Live at https://localmerchx.netlify.app
+##VITEPRESS SITE FOR OFFICIAL DOCUMENTATION.
+
+## Live at **[Localmerch](https://localmerchx.netlify.app)**
 
